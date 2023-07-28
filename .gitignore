@@ -228,4 +228,4 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos
 
 dataset
-# include scripts for dataset download and preprocessing into git stage
+!dataset/voc12/download.sh
